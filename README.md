@@ -22,3 +22,8 @@ List of AWS Services that we are using in DevOps Practices
 10] RDS
 <br>
 11] EKS
+<br>
+12] Lambda
+<br>
+13] ECS
+
